@@ -1,0 +1,15 @@
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\bin\Debug\net6.0\DesafioBasicoUm.exe
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\bin\Debug\net6.0\DesafioBasicoUm.deps.json
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\bin\Debug\net6.0\DesafioBasicoUm.runtimeconfig.json
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\bin\Debug\net6.0\DesafioBasicoUm.dll
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\bin\Debug\net6.0\DesafioBasicoUm.pdb
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.csproj.AssemblyReference.cache
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.AssemblyInfoInputs.cache
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.AssemblyInfo.cs
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.csproj.CoreCompileInputs.cache
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.dll
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\refint\DesafioBasicoUm.dll
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.pdb
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\DesafioBasicoUm.genruntimeconfig.cache
+C:\C#\DesafiosPottencialDIO\DesafioBasicoUm\obj\Debug\net6.0\ref\DesafioBasicoUm.dll
