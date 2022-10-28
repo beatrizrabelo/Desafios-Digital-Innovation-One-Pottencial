@@ -1,0 +1,15 @@
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\bin\Debug\net6.0\DesafioInterTres.exe
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\bin\Debug\net6.0\DesafioInterTres.deps.json
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\bin\Debug\net6.0\DesafioInterTres.runtimeconfig.json
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\bin\Debug\net6.0\DesafioInterTres.dll
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\bin\Debug\net6.0\DesafioInterTres.pdb
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.csproj.AssemblyReference.cache
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.AssemblyInfoInputs.cache
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.AssemblyInfo.cs
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.csproj.CoreCompileInputs.cache
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.dll
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\refint\DesafioInterTres.dll
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.pdb
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\DesafioInterTres.genruntimeconfig.cache
+C:\C#\DesafiosPottencialDIO\DesafioInterTres\obj\Debug\net6.0\ref\DesafioInterTres.dll
