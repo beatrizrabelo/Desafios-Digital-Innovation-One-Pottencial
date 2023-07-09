@@ -2,4 +2,4 @@
 
 Resolvendo desafios do bootcamp .NET da Digital Innovation One junto com a Pottencial.
 
-####obs.: Seguindo o script de acordo com o modelo proposto pela plataforma, e mudando algumas variáveis para ficar mais facilitar o entendimento.
+#### obs.:  o desafio foi feito de acordo com a proposta do bootcamp e mudando algumas variáveis para ficar mais facilitar o entendimento.
